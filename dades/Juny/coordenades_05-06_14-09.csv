@@ -1,0 +1,3 @@
+Lat gps,Lon_gps,Lat base,Lon_base,dist,yaw_error,cmd_angular,cmd_linear
+41.381499160225424,1.7817745129505986,4384968.003308932,1.5192067919649848,"geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.3)","geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)"
+41.38149903020609,1.7817745502546907,4384967.975534348,1.4760943817894123,"geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.3)","geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=0.0)"
